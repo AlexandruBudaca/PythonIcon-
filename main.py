@@ -1,4 +1,3 @@
-
 #1. WAP in python to input 4 numbers and find the largest
 #2. WAP in python to input 5 numbers and find the largest
 #3. WAP to enter a name of a person and his/her age and check if the age is below 18, then print you are not allowed in Pub.
